@@ -1,3 +1,5 @@
+[Pre Curriclum Contents](README.md)
+
 # Typing and Shortcuts
 
 Don't underestimate the importance of your typing skills! It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!

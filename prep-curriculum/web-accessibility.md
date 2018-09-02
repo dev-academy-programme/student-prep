@@ -1,3 +1,5 @@
+[Pre Curriclum Contents](README.md)
+
 # Web Accessibility
 
 ## Objectives
@@ -7,7 +9,7 @@ Learn a little about Web accessibility and why it's important.
 ## Deliverables
 
 1. Watch the video, [Keeping Web Accessibility in Mind](https://youtu.be/yx7hdQqf8lE) (~ 10 minutes).
-2. Report comments or feedback on the class Slack channel.
+
 
 ## About accessibility
 
