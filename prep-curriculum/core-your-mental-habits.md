@@ -30,6 +30,13 @@ Make your time plan and focus plan into a habit. Make a habit of coding.
 * [Fogg technique](http://www.foggmethod.com/)
 
 
+## Deliberate Practice 
+Research concludes that we need deliberate practice to improve performance. Unfortunately, deliberate practice isn’t something that most of us understand, let alone engage in on a daily basis. This helps explain why we can work at something for decades without really improving our performance.
+
+Deliberate practice is hard. It hurts. But it works. More of it equals better performance and tons of it equals great performance.
+
+Read: [What is deliberate practice](https://fs.blog/2012/07/what-is-deliberate-practice/)
+
 
 ### Mnemonic Devices
 Mnemonic devices are a technique often used by students to aid in recall. A mnemonic is simply a way to remember information. For example, you might associate a term you need to remember with a common item that you are very familiar with. The best mnemonics are those that utilize positive imagery, humor, or novelty. You might come up with a rhyme, song, or joke to help remember a specific segment of information.
