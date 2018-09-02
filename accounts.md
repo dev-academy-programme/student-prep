@@ -38,7 +38,7 @@ firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 5. Use the desktop app to sign into the _enspiral-dev-academy_ workspace. 
 6. Add a picture of your self (drop down at the top left of the app, under 'profile and account')
 
-### Slack Channels 
+## Slack Channels 
 When you join up, you will be automatically added to our core channels. However you will need to search for a few more. 
 
 Here are a list and breif description of the core channels you need to join. 
@@ -54,7 +54,7 @@ __Click the word `channels' from within the app to reveal available channels.__
 6. **#random-stuff**: web development jokes, cat GIFs, xkcd.
 
 
-### Slack Guidelines
+## Slack Guidelines
 
 We recommend that anytime you are working on the material you have the [Slack app](https://slack.com/downloads) open.
 
