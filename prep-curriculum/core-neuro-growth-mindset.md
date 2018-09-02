@@ -4,18 +4,18 @@
 
 ## Learning Competencies
 By the end of this exploration, you should be able to:
-- Describe how neuroplaticity is relevant to learning 
-- Describe what Growth Mindset is and why it is important  
+- Describe how neuroplaticity is relevant to learning
+- Describe what Growth Mindset is and why it is important
 
-## Summary 
+## Summary
 
-_This prep material is an adaption of Foundations Core material and will feature in week 4 of Foundations. Strengthening this understanding early will improve your overall learning._  
+_This prep material is an adaption of Foundations Core material and will feature in week 4 of Foundations. Strengthening this understanding early will improve your overall learning._
 
 Until recently, the conventional thinking was that our brains were hardwired at birth and therefore unchangeable. In actuality, our brains are like malleable plastic that is constantly being reshaped by our daily experiences.
 
-Science has also revealed that our belief's about ourselves, what we think and feel about our abilities and our beliefs about 'success' and 'failure' hugely influence our outcomes. 
+Science has also revealed that our belief's about ourselves, what we think and feel about our abilities and our beliefs about 'success' and 'failure' hugely influence our outcomes.
 
-In this exploration we'll challenge you to think about how neuroplaticity and and a Growth Mindset will boost your capabilities in learning. 
+In this exploration we'll challenge you to think about how neuroplaticity and and a Growth Mindset will boost your capabilities in learning.
 
 ## Time Box
 
@@ -26,16 +26,16 @@ Discuss and Reflect  | 1 hour |
 
 
 
-## Neuroplaticity 
+## Neuroplaticity
 [Watch (2min) - Intro to Neuroplaticity](https://www.youtube.com/watch?v=6Ngs5_WXxfo)
 
 Neuroplasticity makes your brain extremely resilient and is the process by which all permanent learning takes place in your brain, such as playing a musical instrument or mastering a different language. Neuroplasticity also enables people to recover from stroke, injury, and helps create new ways of functioning and behaviour for those experiencing  autism, ADD, learning disabilities, depression and addictions, and reverse obsessive-compulsive patterns.
 
-Neuroplasticity has far-reaching implications and possibilities for almost every aspect of human life and culture from education to medicine. Its limits are not yet known. 
+Neuroplasticity has far-reaching implications and possibilities for almost every aspect of human life and culture from education to medicine. Its limits are not yet known.
 
 _Shared via BrainHq_
 
-__Your Brain on Learning__  
+__Your Brain on Learning__
 According to neurologist and educator Judy Willis (and suggested by a research-rich chapter in the second edition of Developmental Psychopathology, among many other publications), neuroplasticity is defined as the selective organizing of connections between neurons in our brains.
 
 This means that when people repeatedly practice an activity or access a memory, their neural networks -- groups of neurons that fire together, creating electrochemical pathways -- shape themselves according to that activity or memory. When people stop practicing new things, the brain will eventually eliminate, or "prune," the connecting cells that formed the pathways. Like in a system of freeways connecting various cities, the more cars going to certain destination, the wider the road that carries them needs to be. The fewer cars traveling that way, however, the fewer lanes are needed.
@@ -63,7 +63,7 @@ Shared from [Edutopia](https://www.edutopia.org/neuroscience-brain-based-learnin
 
 According to psychologist Carol Dweck, known for her research on an individual’s implicit theory of intelligence, “In a fixed mindset students believe their basic abilities, their intelligence, their talents, are just fixed traits. They have a certain amount and that’s that, and then their goal becomes to look smart all the time and never look dumb.”
 
-“You’re so talented!”, “You are gifted – a natural!”, “You’re doing so well in school, you must be really smart!” – children receive these messages (or their negative counterparts), along with many other messages on a daily basis from their peers, parents and teachers. Are these just words or do they mean more? How are children affected by the words we use to praise,coach and criticize them? 
+“You’re so talented!”, “You are gifted – a natural!”, “You’re doing so well in school, you must be really smart!” – children receive these messages (or their negative counterparts), along with many other messages on a daily basis from their peers, parents and teachers. Are these just words or do they mean more? How are children affected by the words we use to praise, coach and criticize them?
 
 Dr. Dweck’s research, compelling and thorough, challenges this widely held belief, or ‘fixed mindset’, by demonstrating how powerful a ‘growth mindset’ can be in achieving success and happiness.
 
@@ -73,18 +73,18 @@ _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-c
 
 Record your answers in your prep learing journal
 
-1. __Research Neuroplaticity__ 
-    - Discuss how understanding the princiapls of neuroplaticity benefits people
-    - Discuss how you might engage with the principals of neuroplaticity for your own benefit 
-    - What are some of the ways to increase your Neuroplaticity
-    - Link to a resource that you found particularly useful or engaging. 
+1. __Research Neuroplaticity__
+    - Discuss how understanding the principals of neuroplaticity benefits people
+    - Discuss how you might engage with the principals of neuroplaticity for your own benefit
+    - What are some of the ways to increase your neuroplaticity
+    - Link to a resource that you found particularly useful or engaging.
 
-2. __Research Growth Mindset__ 
-    - Discuss what it is and why it is relevant 
-    - In this exploration, did anything surprise you? Change for you? 
+2. __Research Growth Mindset__
+    - Discuss what it is and why it is relevant
+    - In this exploration, did anything surprise you? Change for you?
     - How will you integrate growth mindset into your learning journey?
-    - Link to a resource that you found particularly useful or engaging. 
+    - Link to a resource that you found particularly useful or engaging.
 
 
-## Optional Resources 
-- [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)  
+## Optional Resources
+- [Habits & Growth Mindset](http://blog.bufferapp.com/the-habits-of-successful-people-they-have-a-growth-mindset)

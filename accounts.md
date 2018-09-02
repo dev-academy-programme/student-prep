@@ -1,4 +1,4 @@
-[Home](README.md) 
+[Home](README.md)
 
 # Create Accounts!
 
@@ -15,35 +15,35 @@ A couple of things to help us along:
 
 
 ## GitHub
-GitHub is how the curriculum is delivered and will be where you keep all of your code from EDA. It can also be a type of technical resume when applying for positions, so make sure your user name sends the right message. 
+GitHub is how the curriculum is delivered and will be where you keep all of your code from EDA. It can also be a type of technical resume when applying for positions, so make sure your user name sends the right message.
 
 1. Create a [GitHub account](https://github.com/)
 2. Choose a username that:
     - includes your first name
     - is something you'll be happy for employers to see
     - Is snake-case (all lowercase letters with words separated by hyphens, e.g. bobs-yer-uncle).
-3. Add photo and name in [account settings](https://github.com/settings/profile) 
+3. Add photo and name in [account settings](https://github.com/settings/profile)
 4. Check your email and click the validation link
 
 
 ## Slack
-The Enspiral Dev Academy Slack community is where most of our communications take place. 
+The Enspiral Dev Academy Slack community is where most of our communications take place.
 
-__Please use the EDA naming convention:__ 
+__Please use the EDA naming convention:__
 firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 
-1. Join our Slack Workspace using this [link](https://join.slack.com/t/eda-staff/shared_invite/enQtNDI3NzA5NTcxMzQ2LTdmYmNhYjI1MmUxMjVlYjhjY2QxYWM3ZjU4ODAwMjU5MGRhMmEyZjY0MDM3MzJlZWNhMDM3ZTk2MGZlODNhZmY) 
-2. Respond to the verification email (check spam if you can't see it) and follow instructions 
+1. Join our Slack Workspace using this [link](https://join.slack.com/t/eda-staff/shared_invite/enQtNDI3NzA5NTcxMzQ2LTdmYmNhYjI1MmUxMjVlYjhjY2QxYWM3ZjU4ODAwMjU5MGRhMmEyZjY0MDM3MzJlZWNhMDM3ZTk2MGZlODNhZmY)
+2. Respond to the verification email (check spam if you can't see it) and follow instructions
 4. Download the [Slack desktop app](https://slack.com/app)
-5. Use the desktop app to sign into the _enspiral-dev-academy_ workspace. 
+5. Use the desktop app to sign into the _enspiral-dev-academy_ workspace.
 6. Add a picture of your self (drop down at the top left of the app, under 'profile and account')
 
-## Slack Channels 
-When you join up, you will be automatically added to our core channels. However you will need to search for a few more. 
+## Slack Channels
+When you join up, you will be automatically added to our core channels. However you will need to search for a few more.
 
-Here are a list and breif description of the core channels you need to join. 
+Here are a list and brief description of the core channels you need to join.
 
-__Click the word `channels' from within the app to reveal available channels.__  
+__Click the word `channels' from within the app to reveal available channels.__
 
 
 1. **Your cohort-specific channel** E.g. #Nikau: Used for cohort communication. For example, finding a partner to pair with, problem solving, and checkin coordination.
