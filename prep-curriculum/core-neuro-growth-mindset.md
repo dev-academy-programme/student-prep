@@ -26,7 +26,7 @@ Discuss and Reflect  | 1 hour |
 
 
 
-## Neuroplaticity
+## Explore Neuroplaticity
 [Watch (2min) - Intro to Neuroplaticity](https://www.youtube.com/watch?v=6Ngs5_WXxfo)
 
 Neuroplasticity makes your brain extremely resilient and is the process by which all permanent learning takes place in your brain, such as playing a musical instrument or mastering a different language. Neuroplasticity also enables people to recover from stroke, injury, and helps create new ways of functioning and behaviour for those experiencing  autism, ADD, learning disabilities, depression and addictions, and reverse obsessive-compulsive patterns.
@@ -57,7 +57,7 @@ Here are a few tips for making your classroom friendly to malleable brains:
 
 Shared from [Edutopia](https://www.edutopia.org/neuroscience-brain-based-learning-neuroplasticity)
 
-## Growth Mindset
+## Explore Growth Mindset
 
 [Recommended watch (10 min)](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve#t-459099)
 
@@ -69,7 +69,7 @@ Dr. Dweck’s research, compelling and thorough, challenges this widely held bel
 
 _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-carol-dweck-on-the-growth-mindset-and-education/)_
 
-# Discuss and reflect
+## Discuss and reflect
 
 Record your answers in your prep learing journal
 
