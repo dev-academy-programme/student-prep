@@ -26,6 +26,5 @@ We recommend beginning with the core curriclum, before moving to the Tech materi
 1. [The Need for Speed - typing](tech-typing.md)  
 2. [Tools of the trade - command line](tech-command-line.md)
 3. [Web-accessibility](tech-web-accessibility.md)
-4. [Research and Debugging](tech-research-and-debugging.md)
-5. [JavaScript, HTML and CSS - links](tech-js-html-css-links.md)
+4. [JavaScript, HTML and CSS - links](tech-js-html-css-links.md)
 

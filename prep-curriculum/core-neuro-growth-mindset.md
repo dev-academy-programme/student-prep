@@ -1,4 +1,4 @@
-[Prep-Curriclum Contents](README.md)
+[Curriclum Contents](README.md)  
 
 # Neuroplasticity and Growth Mindset
 

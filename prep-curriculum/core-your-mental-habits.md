@@ -1,4 +1,4 @@
-[Prep-Curriclum Contents](README.md)
+[Curriclum Contents](README.md)  
 
 # Habits
 
@@ -30,7 +30,7 @@ Make your time plan and focus plan into a habit. Make a habit of coding.
 * [Fogg technique](http://www.foggmethod.com/)
 
 
-## Deliberate Practice 
+### Deliberate Practice 
 Research concludes that we need deliberate practice to improve performance. Unfortunately, deliberate practice isn’t something that most of us understand, let alone engage in on a daily basis. This helps explain why we can work at something for decades without really improving our performance.
 
 Deliberate practice is hard. It hurts. But it works. More of it equals better performance and tons of it equals great performance.
