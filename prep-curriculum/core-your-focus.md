@@ -61,26 +61,26 @@ We recommend:
 - Minimise external distractions
 - Be selective about the environment you are studying in
 
-## Focus on one thing at a time
+### Focus on one thing at a time
 While multitasking sometimes seems like a great way to get a lot done quickly, it turns out that people are actually rather bad at it. Juggling multiple tasks at once can dramatically cut down on productivity and makes it much harder to hone in on the details that are truly important. Why? Because our attentional resources are limited so it is important to budget them wisely.
 
 Think of your attention as a spotlight. If you shine that spotlight on one particular area, you can see things very clearly. If you were to try to spread that same amount of light across a large dark room, you might instead only glimpse the shadowy outlines.
 
 Part of improving your mental focus is all about making the most of the resources you have available. Stop multitasking and instead give your full attention to one thing at a time.
 
-## Live in the Moment
+### Live in the Moment
 It's tough to stay mentally focused when you are ruminating about the past, worrying about the future, or tuned out of the present moment for some other reason. You have probably heard people talk about the importance of "being present." It's all about putting away distractions, whether they are physical (your Smartphone) or psychological (your anxieties) and being fully mentally engaged in the current moment.
 
 This notion of being present is also essential for recapturing your mental focus. Staying engaged in the here and now keeps your attention sharp and your mental resources honed in on the details that really matter at a specific point in time.
 
 It may take some time but work on learning to truly live in the moment. You cannot change the past and the future has not happened yet, but what you do today can help you avoid repeating past mistakes and pave a path for a more successful future.
 
-## Apply Just in Time Learning
+### Apply Just in Time Learning
 Instead of delivering you a bunch of context, we provide the bare requirement of knowledge and skills needed to solve each challenge. This differs from the ‘just in case’ philosophy of many educators where students learn a lot of things they will rarely or never use in practice.
 
 The world of web development is diverse and rich in complexity. You will want to know more than you have time to learn. Your curiosity will want to take you on various meanderings around certain domains. Don't be tempted! Stick to the learning competencies and trust that a "Just in time" model will serve you in strengthening your skills and adapting quickly.
 
-## Take short breaks
+### Take short breaks
 Have you ever tried to focus on the same thing for a long period of time? After a while, your focus starts to break down and it becomes more and more difficult to devote your mental resources to the task. Not only that, but your performance ultimately suffers as a result.
 
 Traditional explanations in psychology have suggested that this is due to attentional resources being depleted, but some researchers believe that it has more to do with the brain's tendency to ignore sources of constant stimulation.
@@ -89,7 +89,7 @@ So what's the solution?
 
 Researchers have found that even taking very brief breaks by shifting your attention elsewhere can dramatically improve mental focus. So the next time you are working on a prolonged task, such as preparing your taxes or studying for an exam, be sure to give yourself an occasional mental break. Shift your attention to something unrelated to the task at hand, even if it is only for a few moments. These short moments of respite might mean that you are able to keep your mental focus sharp and your performance high when you really need it.
 
-## Keep practicing to strengthen your focus
+### Keep practicing to strengthen your focus
 Building your mental focus is not something that will happen overnight. Even professional athletes require plenty of time and practice in order to strengthen their concentration skills. One of the first steps is to recognize the impact that being distracted is having on your life. If you are struggling to accomplish your goals and find yourself getting sidetracked by unimportant details, it is time to start placing a higher value on your time. By building your mental focus, you will find that you are able to accomplish more and concentrate on the things in life that truly bring you success, joy, and satisfaction.
 
 _Shared via VeryWellMind.com_
