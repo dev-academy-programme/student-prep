@@ -1,6 +1,6 @@
 [Home](README.md) 
 
-# Course requirements
+# Course Eequirements
 
 __You will need__
 - Reliable and fast internet
