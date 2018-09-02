@@ -24,7 +24,7 @@ Discuss and Reflect  | 1 hour |
 - Research reflection
 - Start a Learning Log / Journal!
 
-# Reflection
+## Explore
 "Reflection is the most important part of the learning process. We do not learn from experience.. we learn from reflecting on experience"
 _John Dewey, philosopher, psychologist and educational reformer_
 
@@ -32,13 +32,13 @@ There is an increasing amount of evidence that within the learning domain, refle
 
 The science behind reflection is compelling. We know intuitively that we learn by experience and also that we learn from our mistakes. But research is increasingly telling us that without the process of actively thinking about those experiences, and questioning ourselves about what they mean, learning doesn't really happen. What gets us from experience to understanding is reflection. With the aid of a simple question like 'what did I do well in that situation?', 'what could I do differently', we can make small but cumulative steps to doing things better.
 
-## How to reflect
+### How to reflect
 Reflection can take many forms and encompass many activities. Working with a coach – where the coach guides your reflection through questioning – is one of the most effective ways of learning through reflection. And self-assessments can be a powerful, structured way of helping learners to think about their effectiveness in the activities that they carry out as part of their role.
 At a simpler level, creating learning logs and writing down experiences helps to clarify what actually happened, to understand one's own interpretations of those events and then putting a meaning to them. And even five minutes to yourself at the end of your working day can help to put what you've done into context. It's easy to remember what's just happened and so it’s a great opportunity to think about what’s worked, what hasn’t and what you can do differently (or more of) tomorrow.
 
 _Shared via trainingzone_
 
-## Learning log / journaling
+### Learning log / journaling
 Your task is to create a learning log or journal that you will use throughout the prep curriculum.
 
 __Tips to reflecting__
@@ -48,8 +48,7 @@ __Tips to reflecting__
 
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. Task yourself with explaining a concept to someone who has never heard of it before. How would they relate to it? Can you think of an analogy to explain it?
 
-
-## Types of reflection activities
+### Types of reflection activities
 Journals
 Reflective papers
 Class discussions
@@ -65,10 +64,10 @@ Electronic discussions (e.g., chat, e-mail, online forum)
 - [Reflection. How do we do it](https://www.cetl.hku.hk/workshop160405/)
 
 
-# Start a Learning Log / Journal
+## Start a Learning Log / Journal
 The journal can be on your computer, a vlog or in a handbook. It is for improving your learning and retention, but __can also be incorporated into your learning plan Foundations assessment__
 
-# Reflect
+## Reflect
 What did you learn today?
 
 
