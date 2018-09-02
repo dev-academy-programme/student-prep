@@ -1,7 +1,7 @@
 # Ngā mihi nui kia koutou!
 **Welcome to Dev Academy!**
 
-__Mā te whakaaro nui e hanga te whare; mā te mātauranga e whakaū.__
+__Mā te whakaaro nui e hanga te whare; mā te mātauranga e whakaū.__  
 _Big ideas create the house; knowledge maintains it._
 
 Welcome to Dev Academy! We are a house of ambitious ideas and we invite you to join with us and fill this house with knowledge. Every one of you brings a unique perspective, insights and experiences that we value. We warmly welcome you into our community of learning, collaboration and knowledge. Welcome to Enspiral Dev Academy!
