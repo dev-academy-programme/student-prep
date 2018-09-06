@@ -32,7 +32,7 @@ The Enspiral Dev Academy Slack community is where most of our communications tak
 __Please use the EDA naming convention:__
 firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 
-1. Join our Slack chat using this [https://goo.gl/p25Pgw)
+1. Join our [Slack chat](https://goo.gl/p25Pgw)  
 2. Respond to the verification email (check spam if you can't see it) and follow instructions
 4. Download the [Slack desktop app](https://slack.com/app)
 5. Use the desktop app to sign into the _enspiral-dev-academy_ workspace.
