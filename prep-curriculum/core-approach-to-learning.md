@@ -1,4 +1,4 @@
-[Curriclum Contents](README.md)  
+[Curriculum Contents](README.md)  
 
 # Our Approach to Learning
 Dev Academy requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural.
