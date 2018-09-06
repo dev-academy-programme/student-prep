@@ -59,7 +59,7 @@ Responses to outside readings, media content, and experiences relevant to the is
 Electronic discussions (e.g., chat, e-mail, online forum)
 
 ### Resources
-- [Harvid Business School - Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
+- [Harvard Business School - Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
 - [The Importance of Reflection](https://www.trainingzone.co.uk/develop/talent/the-importance-of-reflection)
 - [Reflection. How do we do it](https://www.cetl.hku.hk/workshop160405/)
 
