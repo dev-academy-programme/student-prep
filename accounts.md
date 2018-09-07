@@ -11,8 +11,8 @@ A couple of things to help us along:
 ## Accounts you need
 
 1. GitHub
-2. Slack
-
+2. Toggl
+3. Slack
 
 ## GitHub
 GitHub is how the curriculum is delivered and will be where you keep all of your code from EDA. It can also be a type of technical resume when applying for positions, so make sure your user name sends the right message.
@@ -25,6 +25,11 @@ GitHub is how the curriculum is delivered and will be where you keep all of your
 3. Add photo and name in [account settings](https://github.com/settings/profile)
 4. Check your email and click the validation link
 
+## Toggl 
+Toggl is a time keeping app that we ask you to use during Foundations. Its purpose is to help you strengthen your programmer skill set and to keep within the recommended time allotments for each activity. 
+
+1. Sign up for a new account with [Toggl](https://toggl.com/)  
+2. Download the desktop app 
 
 ## Slack
 The Enspiral Dev Academy Slack community is where most of our communications take place.
