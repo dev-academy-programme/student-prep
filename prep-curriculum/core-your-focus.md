@@ -1,4 +1,4 @@
-[Curriclum Contents](README.md)  
+[Curriculum Contents](README.md)
 
 # Focus
 
