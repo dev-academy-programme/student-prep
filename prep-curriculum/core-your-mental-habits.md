@@ -53,7 +53,7 @@ Many people benefit greatly from visualizing the information they study. Pay att
 An analogy is simply a comparison between two things.
 Research shows that to liken one thing to another thing, greatly improves a person's understanding and retention.
 
-For example a 'variable' in programming is like a container. And a parameter is like an ingridiant. You can store different ingredients in containers.
+For example a 'variable' in programming is like a container. And a parameter is like an ingredient. You can store different ingredients in containers.
 
 See: [Using analogies and metaphors to enhance learning - article](https://www.dashe.com/blog/learning/analogies-metaphors-enhance-learning/)
 

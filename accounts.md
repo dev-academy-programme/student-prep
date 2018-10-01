@@ -52,7 +52,7 @@ __Click the word `channels' from within the app to reveal available channels.__
 
 
 1. **Your cohort-specific channel** E.g. #Nikau: Used for cohort communication. For example, finding a partner to pair with, problem solving, and checkin coordination.
-2. **#code-helpdesk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
+2. **#code-help-desk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
 3. **#general**: stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
 4. **#show-eda**: stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Phase 0 requires you to use this channel.
 5. Either **#auckland** or **#wellington**: site-specific news, meetups, "I'm locked out", "Who owns the car that's parked me in?" etc.

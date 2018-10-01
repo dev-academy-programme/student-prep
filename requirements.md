@@ -4,7 +4,7 @@
 
 __You will need__
 - Reliable and fast internet
-- At least 500MG of harddrive space
+- At least 500MB of hard drive space
 - Working microphone and camera
 
 __Code every day!__ It's the best challenge we can give you. Monday-Sunday, everyday try to carve out a minimum of 30 minutes to practice.
