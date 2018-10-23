@@ -34,9 +34,9 @@ Toggl is a time keeping app that we ask you to use during Foundations. Its purpo
 ## Slack
 The Enspiral Dev Academy Slack community is where most of our communications take place.
 
-__Please use the EDA naming convention to help us find you on slack:__
-- _Full name_ - Your prefered first name and last name
-- _Display name_ - firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
+__Please use the EDA naming convention to help us find you on slack:__\
+_Full name_ - Your prefered first name and last name\
+_Display name_ - firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 
 
 1. Join our [Slack chat](https://goo.gl/p25Pgw)  
