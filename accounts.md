@@ -34,8 +34,9 @@ Toggl is a time keeping app that we ask you to use during Foundations. Its purpo
 ## Slack
 The Enspiral Dev Academy Slack community is where most of our communications take place.
 
-__Please use the EDA naming convention:__
-firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
+__Please use the EDA naming convention to help us find you on slack:__\
+Full name - Your prefered first name and last name\
+Display name - firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 
 1. Join our [Slack chat](https://goo.gl/p25Pgw)  
 2. Respond to the verification email (check spam if you can't see it) and follow instructions
@@ -51,7 +52,7 @@ Here are a list and brief description of the core channels you need to join.
 __Click the word `channels' from within the app to reveal available channels.__
 
 
-1. **#foundations** Used for communication with your fellow foundations members and facilitators. For example, finding a partner to pair with, problem solving, and checkin coordination.
+1. **#foundations**: Used for communication with your fellow foundations members and facilitators. For example, finding a partner to pair with, problem solving, and checkin coordination.
 2. **#code-help-desk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
 3. **#general**: stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
 4. **#show-eda**: stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Phase 0 requires you to use this channel.
