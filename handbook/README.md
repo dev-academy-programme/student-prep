@@ -6,6 +6,7 @@ Student information including policies and contact lists. For a full list of pol
 2. [Code of conduct](code-of-conduct.md)  
 3. [Expectations](expectations.md)
 4. [Yellow Flags - not meeting expectations.md](yellow-flags.md) 
-5. [Foundations Student Handbook PDF](./Resources/01_Foundations_handbook.pdf) 
+5. Foundations Student Handbook PDF 
+(This you will have received as an attachment via email.  Find it and bookmark it).
 
 
