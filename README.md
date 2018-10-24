@@ -18,4 +18,4 @@ We are a house of ambitious ideas and we invite you to join with us and fill thi
 
 
 ## More information
-1. [Handbook (policies, conduct, contact etc)](handbook/README.md)
+1. [Foundations Student Handbook (policies, conduct, contact etc)](handbook/README.md)
