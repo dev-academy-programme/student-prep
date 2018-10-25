@@ -40,8 +40,3 @@ If you feel like we are not fulfilling these expectations, we really want to kno
 At EDA, we are asking you to do a crazy thing: learn how to be a web developer in a matter of weeks. For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the rules and guidelines that have successfully served many EDA students before you.
 
 We have three pillars that guide the actions of everyone in the EDA community (staff, students, and alumni). They are Integrity, Kindness and Effort. We expect every person to uphold these values every day, throughout the entirety of the programme. By enrolling in EDA, you are implicitly agreeing to uphold these agreements. **Failing to uphold these values will have negative impacts on your learning, and the learning of others in the programme**. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
-
-
-## Looking for work
-
-Until you have graduated, please don't try to look for work as a developer. This includes applying for internship programs like Summer of Tech. At the end of the bootcamp we run a careers week which will help launch you into the job market.

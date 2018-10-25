@@ -1,12 +1,12 @@
-# Student Handbook
+# Foundations Student Handbook
 
-Student information including policies and contact lists. For a full list of policies, refer to your student prospectus or contact your course administrator.
+You have come to the right place for more student information.  For a full list of policies, please refer to your Foundations Student Handbook PDF.
 
 1. [Three pillars](three-pillars.md)  
-2. [Anti-harassment policy](anti-harassment-policy.md)  
-3. [Code of conduct](code-of-conduct.md)  
-4. [Yellow Flags - not meeting expectations.md](yellow-flags.md)  
-5. [Contact and support](contact-and-support.md)
-6. [Use of space](use-of-space.md)
-7. [Expectations](expectations.md)
+2. [Code of conduct](code-of-conduct.md)  
+3. [Expectations](expectations.md)
+4. [Yellow Flags - not meeting expectations.md](yellow-flags.md) 
+5. Foundations Student Handbook PDF 
+(This you will have received as an attachment via email.  Find it and bookmark it).
 
+If you have any questions at all, please contact jack@devacademy.co.nz.
