@@ -11,4 +11,4 @@ Don't underestimate the importance of your typing skills! It's important to be a
 
 You need to be able to:
  - Type at least 40 words per minute
- - Use common shortcuts (eg. find text, toggle a comment, copy a line)
+ - Use common shortcuts
