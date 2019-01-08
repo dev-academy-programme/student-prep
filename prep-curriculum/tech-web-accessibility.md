@@ -26,5 +26,5 @@ To learn a bit about accessibility before we get started, please take a few mome
 - [WebAIM](http://webaim.org/)
 - [W3C Web Accessibility Initiative](https://www.w3.org/WAI/intro/accessibility.php)
 - [Accessible technology at the UW](http://www.washington.edu/accessibility/web/)
-- [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) (Google)
+- [Introduction to Web Accessibility](https://developers.googleblog.com/2013/09/make-your-website-more-accessible-to.html) (Google)
 - [Designing an accessible website](http://www.afb.org/info/programs-and-services/technology-evaluation/creating-accessible-websites/123) (AFB)
