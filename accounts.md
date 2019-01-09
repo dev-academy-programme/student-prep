@@ -13,6 +13,7 @@ A couple of things to help us along:
 1. GitHub
 2. Toggl
 3. Slack
+4. Zoom
 
 ## GitHub
 GitHub is how the curriculum is delivered and will be where you keep all of your code from EDA. It can also be a type of technical resume when applying for positions, so make sure your user name sends the right message.
@@ -33,6 +34,12 @@ Toggl is a time keeping app that we ask you to use during Foundations. Its purpo
 
 ## Slack
 The Enspiral Dev Academy Slack community is where most of our communications take place.
+
+## Zoom
+Zoom is a video conferencing app we use for 1:1 checkins and live workshop sessions. 
+
+1. Sign up for [Zoom](https://zoom.us/)
+2. Download the desktop app
 
 __Please use the EDA naming convention to help us find you on slack:__\
 _Full name_ - Your prefered first name and last name\
