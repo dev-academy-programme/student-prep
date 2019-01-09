@@ -32,14 +32,14 @@ Toggl is a time keeping app that we ask you to use during Foundations. Its purpo
 1. Sign up for a new account with [Toggl](https://toggl.com/)  
 2. Download the desktop app 
 
-## Slack
-The Enspiral Dev Academy Slack community is where most of our communications take place.
-
 ## Zoom
 Zoom is a video conferencing app we use for 1:1 checkins and live workshop sessions. 
 
 1. Sign up for [Zoom](https://zoom.us/)
 2. Download the desktop app
+
+## Slack
+The Enspiral Dev Academy Slack community is where most of our communications take place.
 
 __Please use the EDA naming convention to help us find you on slack:__\
 _Full name_ - Your prefered first name and last name\
