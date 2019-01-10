@@ -5,7 +5,7 @@
 A couple of things to help us along:
 
 1. **Use your first name as part of your username wherever possible**
-2. **Open links in new tabs.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs.
+2. **Open links in new tabs.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs. That being said, try to avoid "tab hell". It can be easy to get lost in there; limit yourself to ten at most. 
 3. **Skim read context: sections.** We use Context: to indicate the information is useful but not essential for completing the task right now.
 
 ## Accounts you need
