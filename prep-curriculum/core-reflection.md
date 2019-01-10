@@ -15,8 +15,8 @@ As you progress into Foundations and bootcamp, you will asked to complete mandat
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 1.5 hours
-Discuss and Reflect  | 1 hour |
+Explore | 30 minutes
+Discuss and Reflect  | 30 minutes |
 
 
 ## Instructions
@@ -65,7 +65,7 @@ Electronic discussions (e.g., chat, e-mail, online forum)
 
 
 ## Start a Learning Log / Journal
-The journal can be on your computer, a vlog or in a handbook. It is for improving your learning and retention, but __can also be incorporated into your learning plan Foundations assessment__
+The journal can be on your computer, a vlog, handbook, it's totally up to you. It is for improving your learning and retention, but __can also be incorporated into your learning plan Foundations assessment__ which we'll cover in more detail later on in the course.
 
 ## Reflect
 What did you learn today?

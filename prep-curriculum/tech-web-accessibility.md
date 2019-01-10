@@ -1,15 +1,20 @@
-[Curriclum Contents](README.md)
+[Student Prep Home](README.md)  
 
 # Web Accessibility
 
-## Objectives
+## Summary
+Learn a little about Web Accessibility and why it's important.
 
-Learn a little about Web accessibility and why it's important.
+## Time box
 
-## Deliverables
+Exploration | Time to box |
+------------|----------|
+Research Web Accessibility | 30 Minutes
+Reflect  | 10 minutes |
+
+## Intro
 
 1. Watch the video, [Keeping Web Accessibility in Mind](https://youtu.be/yx7hdQqf8lE) (~ 10 minutes).
-
 
 ## About accessibility
 

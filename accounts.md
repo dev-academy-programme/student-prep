@@ -1,4 +1,4 @@
-[Home](README.md)
+[Student Prep Home](README.md)  
 
 # Create Accounts!
 
@@ -34,12 +34,16 @@ Toggl is a time keeping app that we ask you to use during Foundations. Its purpo
 
 ## Zoom
 Zoom is a video conferencing app we use for 1:1 checkins and live workshop sessions. 
+A microphone is mandatory; a webcam is optional, but very useful. 
 
 1. Sign up for [Zoom](https://zoom.us/)
 2. Download the desktop app
 
 ## Slack
+Slack is a "cloud-based set of team collaboration tools and services". Esentially, it is a collection of chatrooms for us all to work together effectively. 
+The name, SLACK, is an acronym for "Searchable Log of All Conversation and Knowledge".
 The Enspiral Dev Academy Slack community is where most of our communications take place.
+
 
 __Please use the EDA naming convention to help us find you on slack:__\
 _Full name_ - Your prefered first name and last name\
@@ -63,14 +67,15 @@ __Click the word `channels' from within the app to reveal available channels.__
 1. **#foundations**: Used for communication with your fellow foundations members and facilitators. For example, finding a partner to pair with, problem solving, and checkin coordination.
 2. **#code-help-desk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
 3. **#general**: stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
-4. **#show-eda**: stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Phase 0 requires you to use this channel.
+4. **#show-eda**: stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Foundations requires you to use this channel.
 5. Either **#auckland** or **#wellington**: site-specific news, meetups, "I'm locked out", "Who owns the car that's parked me in?" etc.
-6. **#random-stuff**: web development jokes, cat GIFs, xkcd.
+6. **#random-stuff**: web development jokes, cat GIFs, xkcd. This one is optional but _highly recommended_. 
 
 
 ## Slack Guidelines
 
 We recommend that anytime you are working on the material you have the [Slack app](https://slack.com/downloads) open.
+It is also very useful to install the Slack App for iOS or Android on your smartphone. 
 
 To see who is in the channel, click the 'i' icon in the top right corner. If you have a specific question for someone you can direct message them, but keep in mind that others in the community might know the answer too, so don't cut yourself off from the pool of community knowledge by posting unnecessary private messages.
 

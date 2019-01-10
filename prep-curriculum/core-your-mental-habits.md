@@ -1,4 +1,4 @@
-[Curriculum Contents](README.md)
+[Student Prep Home](README.md)  
 
 # Habits
 
@@ -9,8 +9,8 @@ Your life today is essentially the sum of your habits. What you repeatedly do (i
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 1.5 hours
-Incorporate | 30 minutes
+Explore | 1 hour
+Incorporate | 15 minutes
 Reflect  | 15 minutes |
 
 
@@ -25,13 +25,12 @@ Reward (the benefit you gain from doing the behavior)
 
 Make your time plan and focus plan into a habit. Make a habit of coding.
 
-* Explore the internet for information and techniques in habit building.
 * [BJ Fogg TED talk - Forget Big Change, start with a tiny Habit](https://www.youtube.com/watch?v=AdKUJxjn-R8)
 * [Fogg technique](http://www.foggmethod.com/)
 
 
 ### Deliberate Practice 
-Research concludes that we need deliberate practice to improve performance. Unfortunately, deliberate practice isn’t something that most of us understand, let alone engage in on a daily basis. This helps explain why we can work at something for decades without really improving our performance.
+Research concludes that we need deliberate practice to improve performance. Unfortunately, deliberate practice isn’t something that most of us understand, let alone engage in on a daily basis. This helps explain why we can work at something for decades without really improving our performance. The "10,000" hour rule has been conclusively debunked in the face of deliberate practice research. 
 
 Deliberate practice is hard. It hurts. But it works. More of it equals better performance and tons of it equals great performance.
 

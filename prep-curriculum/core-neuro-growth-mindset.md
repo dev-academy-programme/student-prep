@@ -1,4 +1,4 @@
-[Curriculum Contents](README.md)  
+[Student Prep Home](README.md)  
 
 # Neuroplasticity and Growth Mindset
 
@@ -21,8 +21,8 @@ In this exploration we'll challenge you to think about how neuroplaticity and an
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 1.5 hours
-Discuss and Reflect  | 1 hour |
+Explore | 30 minutes
+Discuss and Reflect  |30 minutes |
 
 
 
