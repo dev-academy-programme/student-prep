@@ -1,8 +1,25 @@
-[Curriclum Contents](README.md)  
+[Student Prep Home](README.md)  
+
+## Summary
+
+Diving in and beginning to code at this point in the pre-Foundations process is not mandatory. 
+That being said, if you do have time to start practicing this material it will really give you the jump on things when we start covering it in the course. 
+
+## Time box
+
+Exploration | Time to box |
+------------|----------|
+Practice HTML, CSS and Javascript | 0 - INFINITY Hours
+Reflect  | (Every day for the rest of your life) |
 
 # JavaScript, HTML and CSS
 
 Hungry for to get coding? Here are some useful resources to get you started.
+
+## HTML and CSS
+- [Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web).
+- [Read/Do: Learn HTML/CSS Shaye Howe](http://learn.shayhowe.com/html-css/)
+- [Build a website with CodeAcademy](https://www.codecademy.com/learn/web)
 
 ## JavaScript
 - [Flatiron's free JavaScript course](https://flatironschool.com/free-courses/learn-javascript/#curriculum)
@@ -13,9 +30,6 @@ Hungry for to get coding? Here are some useful resources to get you started.
 - [Read: Code Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf). A free e-book on JS.
 
 
-## HTML and CSS
-- [Play/Watch: Learn HTML/CSS while completing game challenges](https://www.codeavengers.com/web).
-- [Read/Do: Learn HTML/CSS Shaye Howe](http://learn.shayhowe.com/html-css/)
-- [Build a website with CodeAcademy](https://www.codecademy.com/learn/web)
+
 
 

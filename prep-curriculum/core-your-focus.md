@@ -1,4 +1,4 @@
-[Curriculum Contents](README.md)
+[Student Prep Home](README.md)  
 
 # Focus
 
@@ -24,8 +24,8 @@ Fortunately, focus is a lot like a mental muscle. The more you work on building 
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 1 hour
-Discuss and Reflect  | 20 minutes |
+Explore | 30 minutes
+Discuss and Reflect  | 10 minutes |
 
 
 ## Explore this Domain

@@ -1,4 +1,4 @@
-[Curriculum Contents](README.md)  
+[Student Prep Home](README.md)  
 
 # Time and Productivity
 
@@ -22,9 +22,9 @@ In this exercise you'll explore the domain of time management and productivity a
 
 Exploration | Time to box |
 ------------|----------|
-Explore | 1.5 hours
-4 Questions | 5 min
-Plan | 1 hour
+Explore | 1 hour
+4 Questions | 5 minutes
+Plan | 15 minutes
 Reflect  | 15 minutes |
 
 ## Explore this Domain
@@ -43,7 +43,7 @@ _Credit: [Joris Toonders, Entreprenuer](https://www.linkedin.com/pulse/201404021
 
 Many people just start the day by following their to-do list and checking their e-mail. [Josh] learned that the most effective way to coach yourself is to ask yourself 4 powerful questions every day. Ask yourself 2 questions at the beginning of the day and 2 questions at the end of the day. It makes sure you're much more focused on things that really matter and makes every day more fun.
 
-Take 15 minutes to ask yourself 4 questions and write down the answers. It's the most powerful way to train your brain. It gives you a better understanding on what things you need to improve and gives a better feeling because you're working towards your long term goals.
+Take 15 minutes to ask yourself 4 questions and write down the answers. It's an extremely powerful way to train your brain. It gives you a better understanding on what things you need to improve and gives a better feeling because you're working towards your long term goals.
 
 ___The 2 questions to ask yourself at the beginning of every day:___
 
