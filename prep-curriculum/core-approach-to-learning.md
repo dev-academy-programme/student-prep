@@ -54,4 +54,4 @@ Ask questions to your cohort! Answer questions! One of the best methods for lear
 
 
 ## Learning as a group
-Here there is a lot more emphasis on co-creation of learning between learners, facilitators and peers than what you find in traditional academic programs. We really lean into the "If you want to go fast, go alone. If you want to go far, go together." proverb. It is both cautionary and instrctive. Sometimes it _is_ beneficial to go alone and go quickly, and we celebrate that, but primarily Dev Academy is about teamwork and cooperation. 
+Here there is a lot more emphasis on co-creation of learning between learners, facilitators and peers than what you find in traditional academic programs. We really lean into the "If you want to go fast, go alone. If you want to go far, go together." proverb. It is both cautionary and instructive. Sometimes it _is_ beneficial to go alone and go quickly, and we celebrate that, but primarily Dev Academy is about teamwork and cooperation. 
