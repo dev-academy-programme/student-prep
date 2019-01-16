@@ -4,7 +4,7 @@
 
 At EDA you'll be using specific tools every day: a terminal, an editor and Git (which you'll install in week 1). You'll also need a web browser of course, and for consistency we suggest you use Google Chrome. We'll be installing the following:
 
-1. __A command Line Tool:__ iTerm2 (Mac) or Babun (Windows)
+1. __A command Line Tool:__ iTerm2 (Mac) or Git Bash (Windows)
 2. __A code/text editor:__ Visual Studio Code
 
 __Note about Visual Studio Code:__ Visual Studio Code, or VS for short, is a text editor. Developers write code locally their computer via a text editor, before pushing it up onto the web. Other popular text editors include Sublime and Atom.
