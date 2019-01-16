@@ -29,10 +29,10 @@ __Text Editor: *VS Code*__
 ## Windows instructions
 The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to dual-boot Linux, a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
-__Command Line Tool: *Babun*__  
-Babun is quite a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Foundations without installing other software.
+__Command Line Tool: *Git Bash for Windows*__  
+Git Bash a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Foundations without installing other software.
 
-1. Go to [Babun](https://babun.GitHub.io)
+1. Go to [Git Bash for Windows](https://gitforwindows.org/)
 2. Follow the download and install instructions
 
 __Text Editor: *VS Code*__  
