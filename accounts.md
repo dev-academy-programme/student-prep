@@ -50,7 +50,7 @@ _Full name_ - Your prefered first name and last name\
 _Display name_ - firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
 
 
-1. Join our [Slack chat](https://goo.gl/p25Pgw)  
+1. Join our [Slack chat](https://join.slack.com/t/enspiral-dev-academy/shared_invite/enQtNTI0MDI0NjQ1ODI1LTAzNmYxOWMwNmE5NzNlZGFkODQ0M2U4NDZjNTJiZGUyOGM5YTc2ODk1NTkwNzRkNzNhZTA1NDFhOThlYWFkZWU)  
 2. Respond to the verification email (check spam if you can't see it) and follow instructions
 4. Download the [Slack desktop app](https://slack.com/app)
 5. Use the desktop app to sign into the _enspiral-dev-academy_ workspace.
