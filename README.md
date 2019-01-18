@@ -8,6 +8,11 @@ We are a house of ambitious ideas and we invite you to join with us and fill thi
 
 It's crutial that you are able to hit the ground running on day one of Foundations, so make sure you work your way through this prep material before then!
 
+Also, to help our admissions process run smoothly, please ensure that: 
+
+- You have signed the Student Acknowledgement form, page 1 and 2. 
+- And; if applicable, you have received a loan approval confirmation from Studylink.
+
 ## Sign-up (Estimated Time: 1-2 Hours)
 1. [Check requirements](/requirements.md)
 2. [Sign up for accounts](/accounts.md)
