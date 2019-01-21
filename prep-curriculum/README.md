@@ -1,14 +1,14 @@
-[Home](/README.md)
-
 # Prep Curriculum
 
-The prep curriculum is designed to help you get a headstart. It is recommended, but optional. 
+The prep curriculum is designed to prime you for your learning journey at Dev Academy.
 
 At Dev Academy we factor into the curriculum our understanding of research and methodologies that improve the effectiveness of education. It is unlike traditional learning and understanding its uniqueness will actually help you to learn faster. For example, within the domains of neuroplaticity and education, reserach shows that learners who are introduced to the ideas of how their brains work (e.g. the formation of new neural networks) actually learn faster than those without that knowledge. 
 
 So in this prep curriculum we introduce you to the benefits of crafting learning-practice and learning-insight in order to strengthen your cognition and take in information more effectively. This is an extraordinary undertaking and that you are embarking on, and it requires a bit of rethinking about what you think you know about learning. 
 
-We recommend beginning with the core curriclum, before moving to the Tech material. 
+
+This material is designed to be enjoyable and completed sequentially. 
+Start at the top and work your way down!
 
 ## Core
 

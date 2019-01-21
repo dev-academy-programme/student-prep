@@ -1,8 +1,18 @@
-[Curriclum Contents](README.md)
+[Student Prep Home](README.md)  
 
 # Typing and Shortcuts
 
+## Summary
 Don't underestimate the importance of your typing skills! It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
+
+## Time box
+
+Exploration | Time to box |
+------------|----------|
+Assess and practice your typing speed | 1+ Hours
+Reflect  | 15 minutes |
+
+## Assess and Practice
 
 - Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type.
 - To learn the basics in touch typing and to improve your speeds, try either [typingstudy](http://www.typingstudy.com/lesson/1/part/1) or [typingclub](http://www.typingclub.com/typing-qwerty-en.html).

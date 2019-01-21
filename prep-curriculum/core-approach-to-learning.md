@@ -1,7 +1,7 @@
-[Curriculum Contents](README.md)  
+[Student Prep Home](README.md)  
 
 # Our Approach to Learning
-Dev Academy requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural.
+Dev Academy requires you to acclimate to a new learning environment and mindset. You will be confronted every day by your own limitations; whether they be technical or cultural.
 
 Our educational model is fundamentally different from those offered in traditional institutions. A Dev Academy teacher's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies through challenges, not lecture.
 
@@ -20,7 +20,7 @@ Dev Academy uses a flipped classroom approach, where you the learner are respons
 __Just in time learning__
 Instead of delivering a large amount of basic content upfront we propose teaching core skills as students need them to achieve a challenge. This differs from the ‘just in case’ philosophy of many educators where students learn a lot of things they will rarely or never use in practice.
 
-There will be times when it will be tempting to try to understand more than what is required. Stick to the learning competencies and trust that a "Just in time" model will serve you in strengthening your skills and adapting quickly.
+There will be times when it will be tempting to try to understand more than what is required. Stick to the learning competencies and trust that a "just in time" model will serve you in strengthening your skills and adapting quickly.
 
 ## Tips to Success
 
@@ -36,7 +36,7 @@ In order to be successful at Dev Academy, you need to:
 ## (but) This is Difficult!
 The wonderful thing about difficulty is it helps your brain grow. Unfortunately many of us inherit a mental model that rewards outcomes and labels failures. While aspirations (i.e. to be really good at something) are positive, overlooking the process, can lead to unhelpful behaviors in the class room.
 
-You should by now have already read up on [Growth mindset](neuro-growth-mindset.md), but to recap here is a table with  some key differences:
+You should by now have already read up on [Growth mindset](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-neuro-growth-mindset.md), but to recap here is a table with some key differences:
 
 __Summary of Dweck's Mindset__
 
@@ -50,8 +50,8 @@ ignores useful criticism | learns from criticism |
 threatened by others | inspired by others success |
 
 __Celebrate not knowing__ It's an opportunity to grow!
-Ask questions to your cohort! And answer questions! One of the best methods for learning and integrating new information into long term memory, is to help someone else to understand it. The more your brain can deconstruct a piece of information and reconstruct it into language that someone else will understand, the more growth and learning!
+Ask questions to your cohort! Answer questions! One of the best methods for learning and integrating new information into long term memory, is to help someone else to understand it. The more your brain can deconstruct a piece of information and reconstruct it into language that someone else will understand, the more growth and learning!
 
 
 ## Learning as a group
-Here there is a lot more emphasis on co-creation of learning between learners, facilitators and peers than what you find in traditional academic programs.
+Here there is a lot more emphasis on co-creation of learning between learners, facilitators and peers than what you find in traditional academic programs. We really lean into the "If you want to go fast, go alone. If you want to go far, go together." proverb. It is both cautionary and instructive. Sometimes it _is_ beneficial to go alone and go quickly, and we celebrate that, but primarily Dev Academy is about teamwork and cooperation. 
