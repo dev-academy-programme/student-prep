@@ -15,7 +15,8 @@ Please do not use Microsoft Word for programming.
 
 ## OS X (Mac)
 
-__Command Line Tool: *iTerm*__  
+__Command Line Tool: *iTerm*__
+
 Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice.
 
 
@@ -30,7 +31,8 @@ __Text Editor: *VS Code*__
 ## Windows instructions
 The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to "dual-boot" Linux; a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
-__Command Line Tool: *Git Bash for Windows*__  
+__Command Line Tool: *Git Bash for Windows*__
+
 Git Bash a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Foundations without installing other software.
 
 1. Go to [Git Bash for Windows](https://gitforwindows.org/)
@@ -44,13 +46,15 @@ __Text Editor: *VS Code*__
 
 ## Linux instructions (Ubuntu)
 
-__Command Line Tool: *GNOME*__  
+__Command Line Tool: *GNOME*__
+
 Already installed with Ubuntu!
 
 1. Open up GNOME Terminal
 2. Have a looksie
 
 __Text Editor: *VS Code*__
+
 1. Download and install the current stable release of [Visual Studio Code](https://code.visualstudio.com/) for Linux
 3. Unzip and install
 
