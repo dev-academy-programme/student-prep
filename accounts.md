@@ -22,9 +22,9 @@ GitHub is how the curriculum is delivered and will be where you keep all of your
 
 1. Create a [GitHub account](https://github.com/)
 2. Choose a username that:
-    - includes your first name
+    - includes your name
     - is something you'll be happy for employers to see
-    - Is snake-case (all lowercase letters with words separated by hyphens, e.g. bobs-yer-uncle).
+    - Is snake-case (all lowercase letters with words separated by hyphens, i.e. firstname-lastname).
 3. Add photo and name in [account settings](https://github.com/settings/profile)
 4. Check your email and click the validation link
 
