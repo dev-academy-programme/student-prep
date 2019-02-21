@@ -5,8 +5,10 @@
 A couple of things to help us along:
 
 1. **Use your first name as part of your username wherever possible**
+
 2. **Open links in new tabs.** GitHub repos have a lot of links. We recommend right-clicking (or holding the command key (mac) / control key (win) when clicking) to open links in new tabs. That being said, try to avoid "tab hell". It can be easy to get lost in there; limit yourself to ten at most. 
-3. **Skim read context: sections.** We use Context: to indicate the information is useful but not essential for completing the task right now.
+
+3. **Skim read context sections.** We use `Context:` to indicate the information is useful but not essential for completing the task right now.
 
 ## Accounts you need
 
@@ -45,9 +47,9 @@ The name, SLACK, is an acronym for "Searchable Log of All Conversation and Knowl
 The Enspiral Dev Academy Slack community is where most of our communications take place.
 
 
-__Please use the EDA naming convention to help us find you on slack:__\
+__Please follow the EDA naming convention as this is what helps us find you on slack:__\
 _Full name_ - Your prefered first name and last name\
-_Display name_ - firstname_firstLetterOfLastName_cohort e.g. anahera_p_kakapo.
+_Display name_ - firstname_lastname_cohort_year e.g. kiri_tipene_kakapo_19.
 
 
 1. Join our [Slack chat](https://join.slack.com/t/enspiral-dev-academy/shared_invite/enQtNTI0MDI0NjQ1ODI1LTAzNmYxOWMwNmE5NzNlZGFkODQ0M2U4NDZjNTJiZGUyOGM5YTc2ODk1NTkwNzRkNzNhZTA1NDFhOThlYWFkZWU)  
@@ -61,15 +63,19 @@ When you join up, you will be automatically added to our core channels. However 
 
 Here are a list and brief description of the core channels you need to join.
 
-__Click the word `channels' from within the app to reveal available channels.__
+__Click the word `channels` (in the menu on the left side of the app) to reveal available channels.__
 
+1. **#foundations**: Used for communication with your fellow foundations members and facilitators. For example, asking a question about a specific exercise, finding a partner to pair with, and problem solving.
 
-1. **#foundations**: Used for communication with your fellow foundations members and facilitators. For example, finding a partner to pair with, problem solving, and checkin coordination.
-2. **#code-help-desk**: If you can't get help on a problem in your cohort channel, come here next! Read by grads, teachers, and friendly developers.
-3. **#general**: stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
-4. **#show-eda**: stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Foundations requires you to use this channel.
-5. Either **#auckland** or **#wellington**: site-specific news, meetups, "I'm locked out", "Who owns the car that's parked me in?" etc.
-6. **#random-stuff**: web development jokes, cat GIFs, xkcd. This one is optional but _highly recommended_. 
+2. **#code-help-desk**: If you can't get help on a problem in the foundations channel, come here next! Read by grads, teachers, and friendly developers. Remember, people here won't know about the exercises you're working on, so be specific about the code you're stuck on.
+
+3. **#general**: Stuff everyone in the EDA community should know about. For example, events, announcements, congratulating people.
+
+4. **#show-eda**: Stuff you're working on that you'd like to share. New open source projects, games, pretty things. One of your final assignments in Foundations requires you to use this channel, but others also use this channel to show off the awesome projects they've been working on.
+
+5. Either **#auckland** or **#wellington**: Site-specific news, meetups, "I'm locked out", "Who owns the car that's parked me in?" etc.
+
+6. **#random-stuff**: Web development jokes, cat GIFs, xkcd. This one is optional but _highly recommended_. 
 
 
 ## Slack Guidelines
@@ -79,7 +85,7 @@ It is also very useful to install the Slack App for iOS or Android on your smart
 
 To see who is in the channel, click the 'i' icon in the top right corner. If you have a specific question for someone you can direct message them, but keep in mind that others in the community might know the answer too, so don't cut yourself off from the pool of community knowledge by posting unnecessary private messages.
 
-You can tag someone in your post by putting an @ in front of their user name. If they are not online, they will be notified via email. If you want the whole group to know something, you can use @channel. This will send an email to everyone in the channel. Nonetheless *refrain from using @channel for channels that are not the cohort channel*.
+You can tag someone in your post by putting an @ in front of their username. This will then send them a notification about the message. If you want the whole group to know something, you can use @channel. This will send a notification to everyone in the channel, so *refrain from using @channel for channels that are not the foundations channel*.
 
 For the full tour, see [Slack's official tour](https://enspiral-dev-academy.slack.com/is/team-communication).
 
