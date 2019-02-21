@@ -24,7 +24,7 @@ GitHub is how the curriculum is delivered and will be where you keep all of your
 2. Choose a username that:
     - includes your name
     - is something you'll be happy for employers to see
-    - Is snake-case (all lowercase letters with words separated by hyphens, i.e. firstname-lastname).
+    - Is snake-case (all lowercase letters with words separated by hyphens i.e. `firstname-lastname`)
 3. Add photo and name in [account settings](https://github.com/settings/profile)
 4. Check your email and click the validation link
 
@@ -49,7 +49,7 @@ The Enspiral Dev Academy Slack community is where most of our communications tak
 
 __Please follow the EDA naming convention as this is what helps us find you on slack:__\
 _Full name_ - Your prefered first name and last name\
-_Display name_ - firstname_lastname_cohort_year e.g. kiri_tipene_kakapo_19.
+_Display name_ - firstname_lastname_cohort_year e.g. `kiri_tipene_kakapo_19`.
 
 
 1. Join our [Slack chat](https://join.slack.com/t/enspiral-dev-academy/shared_invite/enQtNTI0MDI0NjQ1ODI1LTAzNmYxOWMwNmE5NzNlZGFkODQ0M2U4NDZjNTJiZGUyOGM5YTc2ODk1NTkwNzRkNzNhZTA1NDFhOThlYWFkZWU)  
