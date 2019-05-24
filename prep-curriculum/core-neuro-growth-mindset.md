@@ -4,7 +4,7 @@
 
 ## Learning Competencies
 By the end of this exploration, you should be able to:
-- Describe how neuroplaticity is relevant to learning
+- Describe how neuroplasticity is relevant to learning
 - Describe what Growth Mindset is and why it is important
 
 ## Summary
@@ -15,7 +15,7 @@ Until recently, the conventional thinking was that our brains were hardwired at 
 
 Science has also revealed that our belief's about ourselves, what we think and feel about our abilities and our beliefs about 'success' and 'failure' hugely influence our outcomes.
 
-In this exploration we'll challenge you to think about how neuroplaticity and and a Growth Mindset will boost your capabilities in learning.
+In this exploration we'll challenge you to think about how neuroplasticity and and a Growth Mindset will boost your capabilities in learning.
 
 ## Time Box
 
@@ -26,8 +26,8 @@ Discuss and Reflect  |30 minutes |
 
 
 
-## Explore Neuroplaticity
-[Watch (2min) - Intro to Neuroplaticity](https://www.youtube.com/watch?v=6Ngs5_WXxfo)
+## Explore Neuroplasticity
+[Watch (2min) - Intro to Neuroplasticity](https://www.youtube.com/watch?v=6Ngs5_WXxfo)
 
 Neuroplasticity makes your brain extremely resilient and is the process by which all permanent learning takes place in your brain, such as playing a musical instrument or mastering a different language. Neuroplasticity also enables people to recover from stroke, injury, and helps create new ways of functioning and behaviour for those experiencing  autism, ADD, learning disabilities, depression and addictions, and reverse obsessive-compulsive patterns.
 
@@ -71,12 +71,12 @@ _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-c
 
 ## Discuss and reflect
 
-Record your answers in your prep learing journal
+Record your answers in your prep learning journal
 
-1. __Research Neuroplaticity__
-    - Discuss how understanding the principals of neuroplaticity benefits people
-    - Discuss how you might engage with the principals of neuroplaticity for your own benefit
-    - What are some of the ways to increase your neuroplaticity
+1. __Research Neuroplasticity__
+    - Discuss how understanding the principles of neuroplasticity benefits people
+    - Discuss how you might engage with the principles of neuroplasticity for your own benefit
+    - What are some of the ways to increase your neuroplasticity
     - Link to a resource that you found particularly useful or engaging.
 
 2. __Research Growth Mindset__
