@@ -23,7 +23,7 @@ The name, SLACK, is an acronym for "Searchable Log of All Conversation and Knowl
 The Enspiral Dev Academy Slack community is where most of our communications take place.
 
 
-__Please follow the EDA naming convention as this is what helps us find you on slack:__\
+__Please follow the EDA naming convention as this is what helps us find you on Slack:__\
 _Full name_ - Your prefered first name and last name\
 _Display name_ - firstname_lastname_cohort_year e.g. `kiri_tipene_kakapo_19`.
 
@@ -73,11 +73,11 @@ GitHub is how the curriculum is delivered and will be where you keep all of your
     - includes your name
     - is something you'll be happy for employers to see
     - Is snake-case (all lowercase letters with words separated by hyphens i.e. `firstname-lastname`)
-3. Add photo and name in [account settings](https://github.com/settings/profile)
+3. Add a photo and name in [account settings](https://github.com/settings/profile)
 4. Check your email and click the validation link
 
 ## Toggl 
-Toggl is a time keeping app that we ask you to use during Foundations. Its purpose is to help you strengthen your programmer skill set and to keep within the recommended time allotments for each activity. 
+Toggl is a time keeping app that we recommend you to use during Foundations. Its purpose is to help you strengthen your programmer skill set and to keep within the recommended time allotments for each activity. 
 
 1. Sign up for a new account with [Toggl](https://toggl.com/)  
 2. Download the desktop app 
