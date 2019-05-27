@@ -9,10 +9,10 @@ Our educational model is fundamentally different from those offered in tradition
 Just as software is opinionated, the curriculum we develop is opinionated. It is shaped by the opinions we have formed training hundreds of developers and getting them ready for jobs in the industry. It is continuously improved, harvesting knowledge from student feedback, employers, and education specialists.
 
 __Skills over Knowledge__
-It is important that students __understand some core concepts__ to effectively but it is more important that they can __use the technologies to build__ useful applications. The curriculum prioritises growing skills over knowledge.
+It is important that students __understand some core concepts__ but it is more important that they can use the technologies to build useful applications. The curriculum prioritises growing skills over knowledge.
 
 __Unobtrusive assessment__
-The curriculum is not designed to teach people how to pass tests. Instead we aim to teach people to build useful applications. Assessment are still important so that students and teachers can evaluate progress. But the assessment is designed to be harvested continuously and unobtrusively during the students learning experience.
+The curriculum is not designed to teach people how to pass tests. Instead we aim to teach people to build useful applications. Assessments are still important so that students and teachers can evaluate progress. But the assessment is designed to be harvested continuously and unobtrusively during the students learning experience.
 
 __Flipped classrooms__
 Dev Academy uses a flipped classroom approach, where you the learner are responsible for your learning journey. Rather than provide you with the knowledge and answers, we facilitate you to think critically about how to solve problems, seek solutions and overcome obstacles.
@@ -36,7 +36,7 @@ In order to be successful at Dev Academy, you need to:
 ## (but) This is Difficult!
 The wonderful thing about difficulty is it helps your brain grow. Unfortunately many of us inherit a mental model that rewards outcomes and labels failures. While aspirations (i.e. to be really good at something) are positive, overlooking the process, can lead to unhelpful behaviors in the class room.
 
-You should by now have already read up on [Growth mindset](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-neuro-growth-mindset.md), but to recap here is a table with some key differences:
+You should by now have already read up on [Growth mindset](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/core-neuro-growth-mindset.md), but to recap, here is a table with some key differences:
 
 __Summary of Dweck's Mindset__
 
