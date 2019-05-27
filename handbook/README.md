@@ -9,4 +9,4 @@ You have come to the right place for more student information.  For a full list 
 5. Foundations Student Handbook PDF 
 (This you will have received as an attachment via email.  Find it and bookmark it).
 
-If you have any questions at all, please contact jack@devacademy.co.nz.
+If you have any questions at all, please contact oliver.harcourt@devacademy.co.nz.
