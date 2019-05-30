@@ -16,12 +16,12 @@ Reflect  | 15 minutes |
 
 ## Explore
 
-### Habit's
+### Habits
 Every habit you have — good or bad — follows the same 3–step pattern.
 
-Reminder (the trigger that initiates the behavior)
-Routine (the behavior itself; the action you take)
-Reward (the benefit you gain from doing the behavior)
+Reminder (the trigger that initiates the behaviour)
+Routine (the behaviour itself; the action you take)
+Reward (the benefit you gain from doing the behaviour)
 
 Make your time plan and focus plan into a habit. Make a habit of coding.
 
@@ -46,13 +46,13 @@ See: [Menomic Devices for Students - Article](https://www.thoughtco.com/mnemonic
 ### Visualise Concepts
 _Credit: VeryWellMind_
 
-Many people benefit greatly from visualizing the information they study. Pay attention to the photographs, charts, and other graphics in your textbooks. If you don't have visual cues to help, try creating your own. Draw charts or figures in the margins of your notes or use highlighters or pens in different colors to group related ideas in your written study materials. Sometimes even just making flashcards of various terms you need to remember can help cement information in your mind.
+Many people benefit greatly from visualising the information they study. Pay attention to the photographs, charts, and other graphics in your textbooks. If you don't have visual cues to help, try creating your own. Draw charts or figures in the margins of your notes or use highlighters or pens in different colors to group related ideas in your written study materials. Sometimes even just making flashcards of various terms you need to remember can help cement information in your mind.
 
 ### Analogies and Metaphors
 An analogy is simply a comparison between two things.
-Research shows that to liken one thing to another thing, greatly improves a person's understanding and retention.
+Research shows that to liken one thing to another thing greatly improves a person's understanding and retention.
 
-For example a 'variable' in programming is like a container. And a parameter is like an ingredient. You can store different ingredients in containers.
+For example, a 'variable' in programming is like a container. And a parameter is like an ingredient. You can store different ingredients in containers.
 
 See: [Using analogies and metaphors to enhance learning - article](https://www.dashe.com/blog/learning/analogies-metaphors-enhance-learning/)
 
@@ -63,8 +63,8 @@ When you're studying unfamiliar material, take the time to think about how this 
 
 See: [Science Writer, Joshua Foer, TED talk - Feats of Memory](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?referrer=playlist-the_complexity_of_memory#t-96310)
 
-### Read Outloud
-Research suggests that reading materials out loud significantly improves​ your memory of the material. Educators and psychologists have also discovered that having students actually teach new concepts to others enhances understanding and recall. You can use this approach in your own studies by teaching new concepts and information to a friend or study partner.
+### Read Out Loud
+Research suggests that reading materials out loud significantly improves your memory of the material. Educators and psychologists have also discovered that having students actually teach new concepts to others enhances understanding and recall. You can use this approach in your own studies by teaching new concepts and information to a friend or study partner.
 
 [Science Daily, University of Waterloo - Reading information aloud to yourself improves memory of materials](https://www.sciencedaily.com/releases/2017/12/171201090940.htm)
 
