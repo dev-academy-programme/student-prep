@@ -52,9 +52,9 @@ Minimising these sources of distraction often sounds easier than it really is.
 
 One way to deal with this is to set aside a specific time and place and request to be left alone for a period of time. Another alternative is to seek out a calm location where you know you will be able to work undisturbed. The library, a private room in your house, or even a quiet coffee shop might all be good spots to try.
 
-Another important thing to remember is that not all distractions are external. Environmental noises and interruptions are often easier control than the internal distractions that might make it difficult to focus your attention. Exhaustion, worry, anxiety, poor motivation, and other internal disturbances can be particularly difficult to avoid.
+Another important thing to remember is that not all distractions are external. Environmental noises and interruptions are often easier to control than the internal distractions that might make it difficult to focus your attention. Exhaustion, worry, anxiety, poor motivation, and other internal disturbances can be particularly difficult to avoid.
 
-A few strategies you might want to try to minimize or eliminate such internal distraction are to make sure you are well-rested prior to the task and to use positive thoughts and imagery to fight off anxiety and worry. If you find your mind wandering toward distracting thoughts, consciously bring your focus back to the task at hand.
+A few strategies you might want to try to minimise or eliminate such internal distraction are to make sure you are well-rested prior to the task and to use positive thoughts and imagery to fight off anxiety and worry. If you find your mind wandering toward distracting thoughts, consciously bring your focus back to the task at hand.
 
 We recommend:
 - Turning off your phone and notifications
