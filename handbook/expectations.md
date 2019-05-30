@@ -15,7 +15,7 @@ EDA is not a traditional school.
   - Being open and honest about things you are finding difficult
   - Tracking your own progress
   - Reaching out when you have questions or need help
-  - Communicate with us if there are circumstances that will effect your ability to keep up with the assignments
+  - Communicate with us if there are circumstances that will affect your ability to keep up with the assignments
 - We expect you to constructively engage with your cohort
 - We expect you to complete all core assignments to the best of your ability by bootcamp
 - We expect you to strive for understanding
