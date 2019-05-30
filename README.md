@@ -6,7 +6,7 @@ _Big ideas create the house; knowledge maintains it._
 
 We are a house of ambitious ideas and we invite you to join with us and fill this house with knowledge. Every one of you brings a unique perspective, insights and experiences that we value. We warmly welcome you into our community of learning, collaboration and knowledge. Welcome to Enspiral Dev Academy!
 
-It's crutial that you are able to hit the ground running on day one of Foundations, so make sure you work your way through this prep material before then!
+It's crucial that you are able to hit the ground running on day one of Foundations, so make sure you work your way through this prep material before then!
 
 Also, to help our admissions process run smoothly, please ensure that: 
 
