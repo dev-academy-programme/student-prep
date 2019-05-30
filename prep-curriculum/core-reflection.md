@@ -38,7 +38,7 @@ At a simpler level, creating learning logs and writing down experiences helps to
 
 _Shared via trainingzone_
 
-### Learning log / journaling
+### Learning log / journalling
 Your task is to create a learning log or journal that you will use throughout the prep curriculum.
 
 __Tips to reflecting__
