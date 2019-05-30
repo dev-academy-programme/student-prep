@@ -7,7 +7,7 @@ The command line is another way of working with your computer. Instead of workin
 
 Knowing how to use your command line will be vital to your success as a programmer. Fortunately for now you only need to know a few commands.
 
-Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun). We recommend using the our suggestion, but you can also use the inbuilt tool too. 
+Mac, Windows and Linux each come with an inbuilt command line tool, however during prep you installed an alternative (iTerm2 or Babun). We recommend using our suggestion, but you can also use the inbuilt tool. 
 
 ## Time box
 
