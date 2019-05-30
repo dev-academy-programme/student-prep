@@ -29,7 +29,7 @@ In order to be successful at Dev Academy, you need to:
 1. Be comfortable not knowing everything (Just in time learning)
 2. Understand that difficulty is simultaneous with growth
 3. Invest in practice and cadence
-4. Learning as a group
+4. Learn as a group
 5. Ask questions, and answer questions!
 
 
