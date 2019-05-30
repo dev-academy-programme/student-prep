@@ -12,5 +12,5 @@ In particular:
  - We aspire to find the courage to give each other actionable, specific and kind feedback if we witness behavior that harms our learning community.
  - We resolve conflicts with listening and discussion, never physically or with threats. 
  - We listen, openly and with acceptance, to the experiences of people from all backgrounds.
- - We work to notice and correct for our unconscious biases.
+ - We work to notice and correct our unconscious biases.
  - We will keep learning and improving on the human skills that are at the heart of our transformative educational experience.
