@@ -62,9 +62,9 @@ Ask yourself every day: What are my challenges today?
 ___The 2 questions to ask yourself at the end of every day:___
 
 __1. Have I reached my goals for today?__
-Setting yourself goals at the beginning of each day isn't enough. You have to evaluate yourself. Make sure you don't get lost in excuses, by telling yourself that you weren't able to reach your goals today. The goals you've set by yourself in the morning, were the goals you wanted to reach. Have you succeed?
+Setting yourself goals at the beginning of each day isn't enough. You have to evaluate yourself. Make sure you don't get lost in excuses, by telling yourself that you weren't able to reach your goals today. The goals you've set by yourself in the morning, were the goals you wanted to reach. Have you succeeded?
 
-If yes, take a moment to enjoy the fact that you reached it and ask yourself what you've done good today to reach your goals. If not, ask yourself what you can do better the next day to make sure you reach your goals. If you fail to reach your daily goals day by day, try different ways of working to improve it. Don't give up. If you reach your daily goals day by day, try giving yourself more ambitious goals and look what's happening.
+If yes, take a moment to enjoy the fact that you reached it and ask yourself what you've done well today to reach your goals. If not, ask yourself what you can do better the next day to make sure you reach your goals. If you fail to reach your daily goals day by day, try different ways of working to improve it. Don't give up. If you reach your daily goals day by day, try giving yourself more ambitious goals and look what's happening.
 
 Ask yourself every day: Have I reached my goals for today?
 
