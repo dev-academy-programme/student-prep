@@ -49,14 +49,14 @@ __Tips to reflecting__
 When writing your reflection, write it for an audience. Tell a story of what you tried and what you learned. Task yourself with explaining a concept to someone who has never heard of it before. How would they relate to it? Can you think of an analogy to explain it?
 
 ### Types of reflection activities
-Journals
-Reflective papers
-Class discussions
-Small-group discussions
-Presentations
-Responses to course readings
-Responses to outside readings, media content, and experiences relevant to the issues surrounding the service activity
-Electronic discussions (e.g., chat, e-mail, online forum)
+* Journals
+* Reflective papers
+* Class discussions
+* Small-group discussions
+* Presentations
+* Responses to course readings
+* Responses to outside readings, media content, and experiences relevant to the issues surrounding the service activity
+* Electronic discussions (e.g., chat, e-mail, online forum)
 
 ### Resources
 - [Harvard Business School - Learning By Thinking: How Reflection Improves Performance](https://hbswk.hbs.edu/item/learning-by-thinking-how-reflection-improves-performance)
