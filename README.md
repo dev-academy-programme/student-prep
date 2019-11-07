@@ -13,15 +13,16 @@ Also, to help our admissions process run smoothly, please ensure that:
 - You have signed the Student Acknowledgement form, page 1 and 2. 
 - And; if applicable, you have received a loan approval confirmation from Studylink.
 
-## Sign-up (Estimated Time: 1-2 Hours)
+## Essential Set-up (Estimated Time: 1-2 Hours)
 1. [Check requirements](/requirements.md)
 2. [Sign up for accounts](/accounts.md)
 3. [Install software](/install-software.md)
 4. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
 
 
-## Work your way through our Prep Curriculum (Estimated Time: 9+ Hours)
-1. [Foundations Prep Curriculum](prep-curriculum/README.md)
+## Prep Curriculum (Estimated Time: 9+ Hours)
+This curriculum will help you get prepared for Foundations. Work through it in advance of Foundations starting.
+1. [Prep Curriculum](prep-curriculum/README.md)
 
 
 ## More information
