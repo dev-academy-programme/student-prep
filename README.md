@@ -26,4 +26,4 @@ This curriculum will help you get prepared for Foundations. Work through it in a
 
 
 ## More information
-1. [Foundations Student Handbook (policies, conduct, contact etc)](handbook/README.md)
+1. [Foundations Student Handbook (policies, conduct, contact etc)](https://eda-student-handbook.netlify.com/foundations)
