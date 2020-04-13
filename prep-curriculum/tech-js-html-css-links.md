@@ -27,7 +27,7 @@ Hungry for to get coding? Here are some useful resources to get you started.
 - [Do: FreeCodeCamp](http://www.freecodecamp.com/). __Create an account using your GitHub account. You will use this during Foundations.__
 - [Read/Watch: Kirupa's tutorials on JavaScript](http://www.kirupa.com/javascript_basics/index.htm). Kirupa uses a lot of visual material and analogies. He's awesome.
 - [Play: Learn JavaScript by playing a Game](http://codecombat.com/play). The game default language is Python - Be sure to select "Javascript" when prompted
-- [Read: Code Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf). A free e-book on JS.
+- [Read: Code Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/). A free e-book on JS.
 
 
 
