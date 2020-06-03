@@ -20,8 +20,8 @@ Also, to help our admissions process run smoothly, please ensure that:
 4. [Complete Personal Information form](https://docs.google.com/forms/d/e/1FAIpQLSeOe6FzgbfOmtG6xYeO3-IVN9DTkwRi0zG6V909o1vuPUNa5w/viewform)
 
 
-## Prep Curriculum (Estimated Time: 9+ Hours)
-This curriculum will help you get prepared for Foundations. Work through it in advance of Foundations starting.
+## Optional Prep Curriculum (Estimated Time: 9+ Hours)
+This curriculum will help you get prepared for Foundations. It is entirely optional but will help you feel more comfortable with the content in the first couple weeks of the course.
 1. [Prep Curriculum](prep-curriculum/README.md)
 
 
