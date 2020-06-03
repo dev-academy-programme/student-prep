@@ -9,7 +9,7 @@
 ## Summary
 Reflecting is an incredibly important part of the learning process. By reflecting on what you have done, you strengthen your sense of responsibility for your own learning and awareness of your own meta-cognitive processes. Evidence suggests that by seeing the link you are putting into learning and what you are getting out of it increases your ability to learn and retain information.
 
-As you progress into Foundations and bootcamp, you will be asked to complete mandatory reflections with each challenge.
+As you progress into Foundations and bootcamp, you will be asked to complete reflections with each challenge.
 
 ## Time Box
 
