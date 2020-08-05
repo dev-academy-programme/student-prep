@@ -26,6 +26,8 @@ __Text Editor: *VS Code*__
 1. Download and install the current stable release of [Visual Studio Code](https://code.visualstudio.com/) for Mac
 
 ## Windows instructions
+__**IMPORTANT:**__ You must be running Windows 10. If you don't have access to Windows 10 please get in touch with one of the Dev Academy staff and we can provide guidance around this.
+
 The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to "dual-boot" Linux; a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
 
 __Command Line Tool: *Git Bash for Windows*__   
