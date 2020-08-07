@@ -31,7 +31,7 @@ Reflect  | 15 minutes |
 This is a large domain, ironically easy to sink too much time into - we recommend timeboxing an hour to skim these resources before diving deeper into the ones that seem most valuable to you.
 
 - [Counter-intuitive productivity](http://paidtoexist.com/counterintuitive-productivity/)
-- [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](http://pomodorotechnique.com/)
+- [Pomodoro Technique - focus on one thing for 25 minutes then take a 5 minute break](https://francescocirillo.com/pages/pomodoro-technique/)
 - [Make it big by starting small](http://blog.bufferapp.com/make-it-big-by-starting-small)
 - [The Best Tricks for Getting in the Zone at Work](http://www.themuse.com/advice/the-best-tricks-for-getting-in-the-zone-at-work)
 - [Timeboxing](https://www.scruminc.com/what-is-timeboxing/)
