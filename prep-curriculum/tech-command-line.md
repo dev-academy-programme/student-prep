@@ -23,4 +23,4 @@ Reflect  | 15 minutes |
 
 ## Give it a try
 - [Practice the command line on Code Academy](https://www.codecademy.com/learn/learn-the-command-line)
-- [Print of the command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
+- [Print off the command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)

@@ -55,7 +55,7 @@ Here are a few tips for making your classroom friendly to malleable brains:
 
 * Let students know that this is how the brain works. Breaking through those neuro-mythological barriers that paint intelligence as predetermined may ease students' minds and encourage them to use their brains. Willis notes, "Especially for students who believe they are 'not smart,' the realization that they can literally change their brains through study and review is empowering."
 
-Shared from [Edutopia](https://www.edutopia.org/neuroscience-brain-based-learning-neuroplasticity)
+Shared from [Edutopia](https://www.edutopia.org/neuroscience-brain-based-learning-Neuroplasticity)
 
 ## Explore Growth Mindset
 
@@ -74,8 +74,8 @@ _Shared from [Onedublin](https://onedublin.org/2012/06/19/stanford-universitys-c
 Record your answers in your prep learning journal
 
 1. __Research Neuroplasticity__
-    - Discuss how understanding the principals of neuroplasticity benefits people
-    - Discuss how you might engage with the principals of neuroplasticity for your own benefit
+    - Discuss how understanding the principles of neuroplasticity benefits people
+    - Discuss how you might engage with the principles of neuroplasticity for your own benefit
     - What are some of the ways to increase your neuroplasticity
     - Link to a resource that you found particularly useful or engaging.
 
