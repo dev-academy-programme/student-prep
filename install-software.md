@@ -13,7 +13,7 @@ There is nothing "magical" about these text editors. You could (if wanted to hav
 
 Please do not use Microsoft Word for programming.
 
-## OS X (Mac)
+## OS X (Mac) instructions
 
 __Command Line Tool: *iTerm*__   
 Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our terminal of choice.
@@ -22,24 +22,17 @@ Mac's come with an inbuilt command line called 'terminal', however iTerm2 is our
 2. Unzip, and drag the app into your applications folder
 
 
-__Text Editor: *VS Code*__   
-1. Download and install the current stable release of [Visual Studio Code](https://code.visualstudio.com/) for Mac
+__MacOS Setup Guide__   
+[MacOS Setup instructions (with video)](https://github.com/dev-academy-programme/computer-setup/blob/master/macos-linux-setup.md)
 
 ## Windows instructions
 __**IMPORTANT:**__ You must be running Windows 10. If you don't have access to Windows 10 please get in touch with one of the Dev Academy staff and we can provide guidance around this.
 
 The Windows development environment can be a little tricky to set up correctly, mostly because of the lack of a good terminal. One option is to "dual-boot" Linux; a way of installing a development setup without sacrificing your current operating system. There are some good guides available to set this up. However it's probably not something you want to try first if you're just starting out and not feeling very confident.
+ 
+__Windows 10 Setup Guide__  
+[Windows 10 Setup instructions (with video)](https://github.com/dev-academy-programme/computer-setup/blob/master/windows-10-setup.md)
 
-__Command Line Tool: *Git Bash for Windows*__   
-Git Bash a similar way of working to the Mac and Linux terminals, and will allow you to follow most of Foundations without installing other software.
-
-1. Go to [Git Bash for Windows](https://gitforwindows.org/)
-2. Follow the download and install instructions
-
-
-__Text Editor: *VS Code*__   
-1. Download and install the current stable release of [Visual Studio Code](https://code.visualstudio.com/) for Windows
-2. Unzip and install it in your programs directory
 
 ## Linux instructions (Ubuntu)
 
@@ -49,10 +42,9 @@ Already installed with Ubuntu!
 1. Open up GNOME Terminal
 2. Have a looksie
 
-
-__Text Editor: *VS Code*__   
-1. Download and install the current stable release of [Visual Studio Code](https://code.visualstudio.com/) for Linux
-2. Unzip and install
+  
+__Linux Setup Guide__   
+[Linux Setup instructions (with video)](https://github.com/dev-academy-programme/computer-setup/blob/master/macos-linux-setup.md)
 
 
 
