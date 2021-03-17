@@ -1,4 +1,9 @@
 # Ngā mihi nui kia koutou!
+
+### This is the old home of our Prep curriculum and is no longer being maintained. Find the sparkly new version in our [Student Handbook](https://handbook.eda.nz/foundations/course-prep) :rocket:
+
+<hr> 
+
 **Welcome to Dev Academy!**
 
 __Mā te whakaaro nui e hanga te whare; mā te mātauranga e whakaū.__  
